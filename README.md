@@ -3,11 +3,11 @@
 
 ## Important !
 
-<img width="517" alt="Reason" src="https://i.imgur.com/rD3ujmL.png">
+<img width="517" alt="Reason" src="">
 This project is no longer being developed because the project owner lacks high security capabilities, leading to potential security vulnerabilities. Therefore, the project will be permanently suspended.
 
 Special Thanks: 
-![image](https://github.com/KanzuXHorizon/Fca-Horizon-Remastered/assets/125113101/0a455054-b7f4-499d-b4b6-c91fd0569ce4)
+![image](https://github.com/TNTxTrick/fca-project/assets/125113101/0a455054-b7f4-499d-b4b6-c91fd0569ce4)
 
 This package require NodeJS 14.17.0 to work properly.
 
@@ -38,11 +38,11 @@ Lưu Ý ! Nếu Bạn Muốn Sài Api Này Hãy Xem Document Tại [Đây Nè](h
 
 Nếu Bạn Muốn Sử Dụng, Hãy Tải Nó Bằng Cách:
 ```bash
-npm i fca-horizon-remastered
+npm i fca-project
 ```
 or
 ```bash
-npm install fca-horizon-remastered
+npm install fca-project
 ```
 
 Nó Sẽ Tải Vô node_modules (Lib Của Bạn) - Lưu Ý Replit Sẽ Không Hiện Đâu Mà Tìm 😪
@@ -51,11 +51,11 @@ Nó Sẽ Tải Vô node_modules (Lib Của Bạn) - Lưu Ý Replit Sẽ Không H
 
 Nếu Bạn Muốn Sử Dụng Phiên Bản Mới Nhất Hay Cập Nhật Thì Hãy Vô Terminal Hoặc Command Promt Nhập :
 ```bash
-npm install fca-horizon-remastered@latest
+npm install fca-project@latest
 ```
 Hoặc
 ```bash
-npm i fca-horizon-remastered@latest
+npm i fca-project@latest
 ```
 
 ## Nếu Bạn Muốn Test Api 
@@ -66,7 +66,7 @@ Hãy Sử Dụng Với Tài Khoản Thử Nghiệm => [Facebook Whitehat Account
 ## Cách Sử Dụng
 
 ```javascript
-const login = require("fca-horizon-remastered"); // lấy từ lib ra 
+const login = require("fca-project"); // lấy từ lib ra 
 
 // đăng nhập
 login({email: "Gmail Account", password: "Mật Khẩu Facebook Của Bạn"}, (err, api) => {
@@ -106,7 +106,7 @@ Bạn Cần Vô File Mirai.js,Sau Đó Tìm Đến Dòng
 Và Thay Nó Bằng:
 
 ```js
-    var login = require('fca-horizon-remastered')
+    var login = require('fca-project')
 ```
 
 Sau Đó Thì Chạy Bình Thường Thôi  !
@@ -127,7 +127,7 @@ __Hướng Dẫn Với Appstate__
 
 ```js
 const fs = require("fs");
-const login = require("fca-horizon-remastered");
+const login = require("fca-project");
 
 var credentials = {email: "FB_EMAIL", password: "FB_PASSWORD"}; // thông tin tk
 
