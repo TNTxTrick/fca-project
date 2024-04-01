@@ -1,7 +1,7 @@
 {
-  "name": "fca-horizon-remastered",
+  "name": "fca-project",
   "version": "1.5.2",
-  "description": "Facebook-chat-api protect and deploy by Kanzu and HZI Team",
+  "description": "Fca được phát triển bởi tntxtrick",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
@@ -9,12 +9,12 @@
   "author": "Avery, David, Maude, Benjamin, UIRI, KanzuWakazaki",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/KanzuXHorizon/Fca-Horizon-Remastered/issues"
+    "url": "https://github.com/TNTxTrick/fca-project/issues"
   },
-  "homepage": "https://github.com/KanzuXHorizon/Fca-Horizon-Remastered#readme",
+  "homepage": "https://github.com/TNTxTrick/fca-project#readme",
   "repository": {
     "type": "git",
-    "url": "git://github.com/KanzuXHorizon/Fca-Horizon-Remastered.git"
+    "url": "git://github.com/TNTxTrick/fca-project.git"
   },
   "dependencies": {
     "aes-js": "latest",
@@ -84,9 +84,9 @@
     }
   },
   "keywords": [
-    "Fca horizon",
-    "fca-horizon-remastered",
-    "horizon fca",
-    "horizon"
+    "Fca project",
+    "fca-project",
+    "project fca",
+    "project"
   ]
 }
